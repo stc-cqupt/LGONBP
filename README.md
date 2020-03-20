@@ -11,13 +11,11 @@ songtc@cqupt.edu.cn
 
 version 1.0 (2020.3)
 
-=====================================
-        How to use the code
-=====================================
+=============================
 Running Environment: Windows 10, Matlab R2014a
 
------------------------------------------------------
-Reproduce the experimental results for Outex_TC_00010
+Reproduce the experimental results for Outex_TC_00010:
+
 1. Download the Outex_TC_00010 dataset from http://www.outex.oulu.fi/index.php?page=classification
 
    In the downloaded file 'Outex_TC_00010', the sub-file 'images' includes all the training and test images, and the sub-file '000' incudes the documents specifying the split of the training and test sets. 
