@@ -11,11 +11,11 @@ songtc@cqupt.edu.cn
 
 version 1.0 (2020.3)
 
-=============================
+==================================================
 
 Running Environment: Windows 10, Matlab R2014a
 
-=============================
+==================================================
 
 Reproduce the experimental results for Outex_TC_00010:
 
