@@ -3,9 +3,9 @@ The source code is for the paper:
 
 Robust Texture Description Using Local Grouped Order Pattern and Non-local Binary Pattern, 
 
-by Tiecheng Song,  Jie Feng, Lin Luo, Chenqiang Gao, and Hongliang Li, 
+by Tiecheng Song,  Jie Feng, Lin Luo, Chenqiang Gao, and Hongliang Li
 
-IEEE TCSVT, 2020,
+IEEE Transactions on Circuits and Systems for Video Technology （TCSVT）, 2020,
 
 songtc@cqupt.edu.cn
 
